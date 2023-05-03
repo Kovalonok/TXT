@@ -2,6 +2,8 @@ id: 3
 Summary:
 iPhone 12. DE. The “TIPP!” text is extended beyond the hint button in the game 
 scenes 
+Severity: minor
+Priority: low
 Description: The “TIPP!” text is extended beyond the hint button in the game scenes
 Steps to reproduce: 
 iPhone 12 iOS 14.1
