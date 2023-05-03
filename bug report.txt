@@ -1,0 +1,16 @@
+id: 3
+Summary:
+iPhone 12. DE. The “TIPP!” text is extended beyond the hint button in the game 
+scenes 
+Description: The “TIPP!” text is extended beyond the hint button in the game scenes
+Steps to reproduce: 
+iPhone 12 iOS 14.1
+Build #67
+1. Launch the "DeepTown" game in German 
+2. Start a new game 
+3. Skip the video 
+4. Pay attention to the hint button 
+Actual result: The “TIPP!” text is extended beyond the hint button in the game 
+scenes 
+Expected result: The “TIPP!” text is displayed in the hint button in the game scenes 
+Attached Files:link
