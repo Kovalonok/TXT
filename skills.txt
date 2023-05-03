@@ -1,0 +1,6 @@
+terminal linux
+sql
+git
+postman
+client-server architecture
+mobile testing
