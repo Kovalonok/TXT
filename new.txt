@@ -1,0 +1,5 @@
+Kovalonok Denys Gennadievich
+age: 33
+pets: 1
+salary: 600USD
+
